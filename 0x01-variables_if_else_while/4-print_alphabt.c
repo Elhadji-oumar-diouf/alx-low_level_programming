@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	char lowercase;
+	char lowercase, e, q;
 	e='e';
 	q='q';
 
