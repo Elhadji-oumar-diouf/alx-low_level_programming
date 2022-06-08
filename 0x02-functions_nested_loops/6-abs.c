@@ -3,9 +3,9 @@
 
 /**
  * _abc
- * @n: An input number
- * Description: Tohis function prints the sign of the number
- * Return: 1 if number is positive, o if number is 0, or
+ * @man: An input number
+ * Description: function that computes the absolute value of an integer
+ * Return: Absolut value of number man abc
  * -1 if number is negative
 */
 int _abs(int man)
