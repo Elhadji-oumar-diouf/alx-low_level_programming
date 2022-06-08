@@ -2,21 +2,20 @@
 #include <stdlib.h>
 
 /**
- *
- * Description: function uses _putchar function to print
- * alphabet in lowercase 10 times
- * Return: 1 if is lowercase or 0 if is uppercase
- *
+ * _isalpha - Check
+ * Description: function returns 1 if the character is a
+ * letter, lowercase or uppercase.
+ * Return: 1 or 0 in otherwise.
  */
- 
+
 int _isalpha(int c)
 {
-	char lower , upper;
+	char lower, upper;
 	int isalpha = 0;
 
 	for (lower = 'a'; lower <= 'z'; lower++)
 	{
-		for (upper = 'A' ; upper<= 'Z' ; upper++)
+		for (upper = 'A' ; upper <= 'Z' ; upper++)
 		{
 			if (lower == c || upper == c)
 			{
