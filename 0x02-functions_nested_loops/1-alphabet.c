@@ -4,7 +4,7 @@
 /**
  *main - check the code
  *
- *Description:for function print_alphabet
+ *lowercase alphabet
  *Return: Always 0 (Success);
  */
 
