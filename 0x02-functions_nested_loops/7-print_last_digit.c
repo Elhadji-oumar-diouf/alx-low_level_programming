@@ -6,7 +6,8 @@
 *Description :This function prints the last digit of a number
 *Returns the value of the last digit num
 */
-int print_last_digit(int num){
+int print_last_digit(int num)
+{
 	int digit;
 
 	if (num < 0)
