@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-*print_last_digit
+*print_last_digit check
 *@num:An integer input
-*Description : Function the last digit of a number
+*Description :This function prints the last digit of a number
 *Returns the value of the last digit num
 */
 int print_last_digit(int num){

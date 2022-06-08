@@ -2,11 +2,10 @@
 #include <stdlib.h>
 
 /**
- * _abc
+ * _abc - Check
  * @man: An input number
- * Description: function that computes the absolute value of an integer
- * Return: Absolut value of number man abc
- * -1 if number is negative
+ * Description: function the absolute value of an integer
+ * Return: Absolut value of number man
 */
 int _abs(int man)
 {
