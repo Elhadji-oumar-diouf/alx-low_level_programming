@@ -6,9 +6,10 @@
  * Return: 1 or 0 in otherwise.
  ** @c : An input character
 */
-int print_sign(int n){
+int print_sign(int n)
+{
 	int number;
-	
+
 	if (n > 0)
 	{
 		number = 1;
@@ -26,6 +27,6 @@ int print_sign(int n){
 		number = -1;
 		putchar('-');
 	}
-	
+
 	return (number);
 }
