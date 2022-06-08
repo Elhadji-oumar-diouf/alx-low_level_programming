@@ -3,10 +3,16 @@
 
 /**
  * main - Entry point
- * Return: Always 1 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	_putchar("\n");
+	char word[8] = "_putchar";
+	int i;
+
+	for (i = 0; i < 8; i++)
+		putchar(word[i]);
+	putchar('\n');
+
 	return (0);
 }
