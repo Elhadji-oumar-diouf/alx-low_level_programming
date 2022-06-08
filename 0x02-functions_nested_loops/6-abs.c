@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /**
- * _abc - Check
- * @man: An input number
- * Description: function the absolute value of an integer
+ * abs - Check Holberton
+ * @man: An integre input
+ * Description: This function returns absolute value of a number
  * Return: Absolut value of number man
 */
 int _abs(int man)
