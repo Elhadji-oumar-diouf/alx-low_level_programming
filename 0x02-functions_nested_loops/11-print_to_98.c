@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *print_to_98 - Check 
+ *print_to_98 - Check
  * @n: A input integer
  * Description: It prints 9 times table starting with 0
  *from n to 98, followed by a new line
