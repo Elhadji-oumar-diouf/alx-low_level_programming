@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * abs - Check Holberton
+ * _abs - Check Holberton
  * @man: An integre input
  * Description: This function returns absolute value of a number
  * Return: Absolut value of number man
