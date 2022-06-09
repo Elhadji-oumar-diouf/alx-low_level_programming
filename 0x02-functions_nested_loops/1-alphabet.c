@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * print_alphabet : Check Alphabet
- * Description : this function print the alphabet in lowercase followed
+ * print_alphabet :function
+ * Description: this function print the alphabet in lowercase followed
  * Return: Nothing.
  */
 
