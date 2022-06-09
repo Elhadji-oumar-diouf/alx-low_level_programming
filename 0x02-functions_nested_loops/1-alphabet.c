@@ -3,7 +3,7 @@
 
 /**
  * print_alphabet : Check
- * Description: It prints the alphabet in lowercase fallowed by a new line
+ * Description: this function print the alphabet in lowercase
  * Return: Nothing.
  */
 
