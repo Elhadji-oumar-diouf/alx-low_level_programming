@@ -6,6 +6,7 @@ int _islower(int c);
 int _isalpha(int c);
 int _isdigit(int c);
 int print_sign(int n);
+int mul(int a,int b);
 int _abs(int r);
 int print_last_digit(int r);
 void jack_bauer(void);
