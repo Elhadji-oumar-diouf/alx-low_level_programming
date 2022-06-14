@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /**
-*_strlen - a function that takes a pointer to an int as parameter
-* @n: input strings
-* Return : Nothing
+* _strlen - a function that takes a pointer to an int as parameter
+* @s: input strings
+* Return : len
 */
 int _strlen(char *s)
 {
