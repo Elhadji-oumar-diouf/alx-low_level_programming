@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
-* _strlen - a function that takes a pointer to an int as parameter
+* _strlen -  a function that returns the length of a string
 * @s: input strings
 * Return : len
 */
