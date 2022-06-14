@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
-* int _strlen - a function that takes a pointer to an int as parameter
-* @n: integer pointer
+*_strlen - a function that takes a pointer to an int as parameter
+* @n: input strings
 * Return : Nothing
 */
 int _strlen(char *s)
