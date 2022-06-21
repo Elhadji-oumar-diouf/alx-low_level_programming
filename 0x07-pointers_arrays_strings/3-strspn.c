@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
  * _strspn - a function that gets the length of a prefix substring.
  * @s: an input string
