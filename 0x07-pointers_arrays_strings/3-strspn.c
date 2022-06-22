@@ -6,26 +6,26 @@
  * @accept: an input character with to locate into string s
  * Return: returns pointer to c position
  */
-unsigned int _strspn(char *s, char *lfou)
+unsigned int _strspn(char *s, char *accept)
 {
 	int count = 0, flag;
-	char *elho = lfou;
+	char *start = accept;
 
 	while (*s)
 	{
 		flag = 0;
-		while (*lfou)
+		while (*accept)
 		{
-			if (*lfou == *s)
+			if (*accept == *s)
 			{
 				count++;
 				flag = 1;
 				break;
 			}
-			lfou++;
+			accept++;
 		}
 		s++;
-		lfou = elho;
+		accept = start;
 		if (flag == 0)
 			break;
 	}
