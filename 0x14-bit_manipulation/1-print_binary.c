@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_binary - A function that prints a binary number without % or /
+ * print_binary - A function that prints a binary number without % or / operator
  * @n: The number to be printed
  * Return: Nothing
  */
